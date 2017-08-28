@@ -1179,4 +1179,8 @@
         <item>1</item> <!-- COLOR_MODE_BOOSTED -->
         <item>2</item> <!-- COLOR_MODE_SATURATED -->
     </integer-array>
+
+    <!-- Enable dual LTE capability support-->
+    <bool name="config_dual_LTE_capability">true</bool>
+
 </resources>
