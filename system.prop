@@ -1,3 +1,6 @@
+# Apex
+ro.apex.updatable=true
+
 # Bluetooth
 vendor.bluetooth.soc=cherokee
 vendor.qcom.bluetooth.soc=cherokee
