@@ -1092,6 +1092,9 @@
     <bool name="config_supportDoubleTapWake">true</bool>
     <bool name="config_cleanupUnusedFingerprints">false</bool>
 
+    <!-- Shows the required view for in-display fingerprint -->
+    <bool name="config_needCustomFODView">true</bool>
+
     <!-- The list of components which should be automatically disabled. -->
     <string-array name="config_deviceDisabledComponents" translatable="false">
 	    <item>com.google.android.googlequicksearchbox/com.google.android.hotword.service.HotwordService</item>
