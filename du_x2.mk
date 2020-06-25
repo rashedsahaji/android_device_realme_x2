@@ -10,6 +10,7 @@ $(call inherit-product, device/realme/x2/device.mk)
 $(call inherit-product, vendor/du/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
  IS_PHONE:= true
+DU_BUILD_TYPE := OFFICIAL
 
 #Gapps
 USE_GAPPS := true
