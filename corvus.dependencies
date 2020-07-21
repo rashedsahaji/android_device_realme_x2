@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "Corvus-Devices/vendor_realme_x2",
+    "target_path": "vendor/realme/x2",
+    "branch": "ten"
+    "remote": "github"
+  },
+  {
+    "repository": "Sukrut4778/kernel_realme_sm6150",
+    "target_path": "kernel/realme/sm6150,
+    "branch": "ten"
+    "remote": "github"
+  }
+]
